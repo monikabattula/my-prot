@@ -1,0 +1,23 @@
+{
+  "name": "monika-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, responsive portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8080 -o"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "responsive",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Monika",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
+
